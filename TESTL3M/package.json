@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:TESTL3M": "node dist/testl3-m/server/server.mjs"
+    
   },
   "private": true,
   "dependencies": {
